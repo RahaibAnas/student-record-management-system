@@ -130,7 +130,7 @@ student-record-management-system/
 ## Clone Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/student-record-management-system.git
+git clone https://github.com/RahaibAnas/student-record-management-system.git
 ```
 
 ```bash
